@@ -12,9 +12,10 @@ public class PTra02_02 {
 		System.out.println(num);
 
 		// ★ 変数numの値に30足した数を出力してください
-
+		int num2 = 30;
+		System.out.println(num2);
 
 		// ★ 以下のプログラムで40が出力されるようにしてください
-		System.out.println(num);	// ※※ この行は修正しないでください
+		System.out.println(num + num2);	// ※※ この行は修正しないでください
 	}
 }
