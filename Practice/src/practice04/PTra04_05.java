@@ -54,8 +54,12 @@ public class PTra04_05 {
 
 
 
+
+
 			} else {
 				System.out.println("パー！！");
+
+
 
 
 
