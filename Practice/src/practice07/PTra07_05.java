@@ -1,4 +1,5 @@
 package practice07;
+
 /*
  * PTra07_05.java
  *   作成	LIKEIT	2017
@@ -20,11 +21,14 @@ public class PTra07_05 {
 		 * 後処理：変数iに1を足して、変数iを上書きしてください
 		 */
 		//------for start
+		 for(int i = 0; i<score.length; i++) {
+			 
 
 			// ★ 0～100000の中からランダムで値を取得して、配列arrayのi番目に代入してください
-
+			 
 
 			// ★ 配列arrayのi番目の値を出力してください
+		 }
 
 
 		//------for end
