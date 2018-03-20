@@ -10,7 +10,7 @@ public class PTra07_05 {
 	public static void main(String[] args) {
 
 		// ★ int型の配列arrayを宣言して、5個の領域を確保してください
-
+		int[] score = new int[5];
 
 		/*
 		 * ★ 下記の仕様でfor文を記述してください
@@ -28,5 +28,8 @@ public class PTra07_05 {
 
 
 		//------for end
+
+		int i = 0;
+
 	}
 }
